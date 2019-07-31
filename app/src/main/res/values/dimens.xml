@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="marginM">10dp</dimen>
+    <dimen name="marginS">5dp</dimen>
+    <dimen name="marginXS">2dp</dimen>
+    <dimen name="marginL">15dp</dimen>
+    <dimen name="marginXL">20dp</dimen>
+    <dimen name="marginXXL">25dp</dimen>
+
+    <dimen name="titleHeight">45dp</dimen>
+
+    <dimen name="fontM">16dp</dimen>
+    <dimen name="fontL">20dp</dimen>
+    <dimen name="fontXL">25dp</dimen>
+
+    <dimen name="wFontS">14dp</dimen>
+    <dimen name="wFontM">22dp</dimen>
+    <dimen name="wFontL">42dp</dimen>
+
+
+</resources>
